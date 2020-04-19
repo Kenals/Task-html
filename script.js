@@ -20,7 +20,6 @@ function bottleUp(number){
      {output.push(i);
     }
     }
-    console.log(output);
     }else{
     output.push(number + "is not a number")
     }
